@@ -1,4 +1,4 @@
-# Auditing for Bias: Fairness in Classifier Models and Trade-offs
+# Auditing for Bias: Fairness in Classifier Models and Trade-offs using COMPASS
 
 This repository archives a 2022 empirical research report on fairness trade-offs in classifier models using the COMPAS recidivism dataset.
 
